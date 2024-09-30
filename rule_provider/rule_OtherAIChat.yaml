@@ -1,0 +1,20 @@
+payload:
+# Google Bard
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,makersuite.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,ai.google.dev
+
+# Android Studio Bot
+DOMAIN,aida.googleapis.com
+
+#cloude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,hsforms.net
+
+# Jetbrains AI Assistant
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+DOMAIN-SUFFIX,grazie.ai
