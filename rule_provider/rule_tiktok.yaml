@@ -1,15 +1,40 @@
-# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tiktok
-
-# Behavior: domain
-
+# TikTok
+# Src: https://www.netify.ai/resources/applications/tiktok
 payload:
-- "+.byteoversea.com"
-- "+.muscdn.com"
-- "+.musical.ly"
-- "+.tik-tokapi.com"
-- "+.tiktok.com"
-- "+.tiktokcdn.com"
-- "+.tiktokd.net"
-- "+.tiktokd.org"
-- "+.tiktokv.com"
-- "p16-tiktokcdn-com.akamaized.net"
+  - DOMAIN-KEYWORD,-tiktok.byteoversea.com
+  - DOMAIN-SUFFIX,byteoversea.net
+  - DOMAIN-SUFFIX,ibytedtos.com
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-KEYWORD,tiktokcdn.com
+  - DOMAIN-KEYWORD,tiktokv.com
+  - DOMAIN-KEYWORD,-tiktokcdn-com
+  - DOMAIN-KEYWORD,-tiktok.
+  - DOMAIN-KEYWORD,-tiktok-
+  - DOMAIN-KEYWORD,tiktok-
+  - DOMAIN-KEYWORD,tiktokcdn-
+  - DOMAIN-KEYWORD,tiktokcdn
+  - DOMAIN-KEYWORD,-tt.byteimg.com
+  - DOMAIN-KEYWORD,-tt-ipv6.byteimg.com
+  - DOMAIN-KEYWORD,-hs.pstatp.com
+  - DOMAIN-KEYWORD,-tos.pstatp.com
+  - DOMAIN-KEYWORD,-mus.pstatp.com
+  - DOMAIN-SUFFIX,flive.pstatp.com
+  - DOMAIN-SUFFIX,byteimg.com
+  - DOMAIN-SUFFIX,ibyteimg.com
+  - DOMAIN-SUFFIX,ipstatp.com
+  - DOMAIN-SUFFIX,sgpstatp.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-KEYWORD,tlivecdn.com
+  - DOMAIN-KEYWORD,ttlivecdn.com
+  - DOMAIN-SUFFIX,tiktokd.org
+  - DOMAIN-SUFFIX,ttoversea.net
+  - DOMAIN-SUFFIX,ttoverseaus.net
+  - DOMAIN-SUFFIX,sgsnssdk.com
+  - DOMAIN-SUFFIX,isnssdk.com
+  - DOMAIN-SUFFIX,muscdn.com
+  - DOMAIN-SUFFIX,musemuse.cn
+  - DOMAIN-SUFFIX,musical.ly
+  - DOMAIN,p16-tiktokcdn-com.akamaized.net
+  
+  #- PROCESS-NAME,com.zhiliaoapp.musically
