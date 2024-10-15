@@ -195,9 +195,9 @@ payload:
 # > Nonton Film
   - DOMAIN-SUFFIX,dramaid.nl
   - DOMAIN-SUFFIX,www.dubbindo.site
-  - DOMAIN-SUFFIX,stream.dutamovie21.cloud
+  - DOMAIN-SUFFIX,viral.dutamovie21.tech
   - DOMAIN-SUFFIX,idlixian.com
-  - DOMAIN-SUFFIX,sharp.indodb21.blog
+  - DOMAIN-SUFFIX,indodb21.pw
   - DOMAIN-SUFFIX,inv.nadeko.net
   - DOMAIN-SUFFIX,klikxxi.com
   - DOMAIN-SUFFIX,tv13.nontondrama.click
@@ -209,18 +209,17 @@ payload:
   - DOMAIN-SUFFIX,pencurimovie.xyz
   - DOMAIN-SUFFIX,pf21.biz
 
-
-  # Search Domain
+# Search Domain
   - DOMAIN-KEYWORD,joox
   - DOMAIN-KEYWORD,soundcloud
   - DOMAIN-KEYWORD,resso
 
-# > Anime
+# > Anime Domain Indonesian
   - DOMAIN-SUFFIX,anoboy.foundation
   - DOMAIN-SUFFIX,neonime.me
   - DOMAIN-SUFFIX,anichin.mom
   - DOMAIN-SUFFIX,anikor.my.id
-  - DOMAIN-SUFFIX,v5.animasu.cc
+  - DOMAIN-SUFFIX,v6.animasu.cc
   - DOMAIN-SUFFIX,154.26.137.28
   - DOMAIN-SUFFIX,animexin.vip
   - DOMAIN-SUFFIX,anixverse.com
@@ -229,8 +228,8 @@ payload:
   - DOMAIN-SUFFIX,kazefuri.asia
   - DOMAIN-SUFFIX,nekokun.site
   - DOMAIN-SUFFIX,nimegami.id
-  - DOMAIN-SUFFIX,nontonanimeid.autos
-  - DOMAIN-SUFFIX,oploverz.io
+  - DOMAIN-SUFFIX,s1.nontonanimeid.boats
+  - DOMAIN-SUFFIX,oploverz.llc
   - DOMAIN-SUFFIX,otakudesu.cloud
   - DOMAIN-SUFFIX,samehadaku.email
   - DOMAIN-SUFFIX,tensei.id
@@ -238,6 +237,10 @@ payload:
   - DOMAIN-SUFFIX,kuronime.pro
   - DOMAIN-SUFFIX,kusonime.com
   - DOMAIN-SUFFIX,gomunime.is
+  - DOMAIN-SUFFIX,nekopoi.care
+  - DOMAIN-SUFFIX,minioppai.org
+
+# > Anime Domain Global
   - DOMAIN-SUFFIX,9anime.cz
   - DOMAIN-SUFFIX,9anime.id
   - DOMAIN-SUFFIX,9anime.to
