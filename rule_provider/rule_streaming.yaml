@@ -1,10 +1,13 @@
 payload:
   # Mulai baris ini kebawah bisa di edit/hapus
+  
   - DOMAIN-SUFFIX,iq.com
-  # > Tencent Video
+  
+# > Tencent Video
   - DOMAIN-SUFFIX,v.smtcdns.com
   - DOMAIN-SUFFIX,vv.video.qq.com
-  # > NIMO TV
+  
+# > NIMO TV
   - DOMAIN-SUFFIX,ylog.nimo.tv
   - DOMAIN-SUFFIX,api.nimo.tv
   - DOMAIN-SUFFIX,metric.nimo.tv
@@ -22,7 +25,8 @@ payload:
   - DOMAIN-SUFFIX,follow-cf-dynamic.nimo.tv
   - DOMAIN-SUFFIX,statwup.nimo.tv
   - DOMAIN-KEYWORD,nimo.tv
-  # > Discovery Plus
+  
+# > Discovery Plus
   - DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
   - DOMAIN-SUFFIX,disco-api.com
   - DOMAIN-SUFFIX,discoveryplus.com
@@ -31,7 +35,8 @@ payload:
   - DOMAIN-SUFFIX,litix.io
   - DOMAIN-SUFFIX,mobile-collector.newrelic.com
   - DOMAIN-SUFFIX,uplynk.com
-  # > AbemaTV
+  
+# > AbemaTV
   # - USER-AGENT,AbemaTV*
   - DOMAIN-SUFFIX,abema.io
   - DOMAIN-SUFFIX,abema.tv
@@ -39,7 +44,7 @@ payload:
   - DOMAIN-SUFFIX,hayabusa.io
   - DOMAIN-KEYWORD,abematv.akamaized.net
 
-  # > Apple API
+# > Apple API
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,apple.co
   - DOMAIN-SUFFIX,apple.com
@@ -63,17 +68,17 @@ payload:
   - IP-CIDR,198.183.17.0/24,no-resolve
   - IP-CIDR,205.180.175.0/24,no-resolve
   
-  # > Apple News
+# > Apple News
   - DOMAIN-SUFFIX,apple.news
   
-  # > Apple Maps
+# > Apple Maps
   
-  # > Apple TV
+# > Apple TV
   - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN-SUFFIX,tv.apple.com
   
-  # > BBC iPlayer
+# > BBC iPlayer
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN,aod-dash-uk-live.akamaized.net
   - DOMAIN,aod-hls-uk-live.akamaized.net
@@ -86,23 +91,24 @@ payload:
   - DOMAIN-SUFFIX,bbci.co
   - DOMAIN-SUFFIX,bbci.co.uk
   - DOMAIN-SUFFIX,bidi.net.uk  
-  # > encoreTVB
+  
+# > encoreTVB
   - DOMAIN-SUFFIX,encoretvb.com
   - DOMAIN,content.jwplatform.com
   - DOMAIN,videos-f.jwpsrv.com
   
-  # > Fox+ (HK|TW|SG)
+# > Fox+ (HK|TW|SG)
   # - USER-AGENT,FOXPlus*
   - DOMAIN-SUFFIX,foxplus.com
   - DOMAIN-SUFFIX,theplatform.com
   
-  # > Fox Now
+# > Fox Now
   # - USER-AGENT,FOX%20NOW*
   - DOMAIN-SUFFIX,fox.com
   - DOMAIN-SUFFIX,foxdcg.com
   - DOMAIN-SUFFIX,uplynk.com
   
-  # > Hulu
+# > Hulu
   - DOMAIN-SUFFIX,cws-hulu.conviva.com
   - DOMAIN-SUFFIX,hulu.com
   - DOMAIN-SUFFIX,hulu.hb.omtrdc.net
@@ -111,14 +117,14 @@ payload:
   - DOMAIN-SUFFIX,huluim.com
   - DOMAIN-SUFFIX,hulustream.com
   
-  # > Hulu(フールー)
+# > Hulu(フールー)
   - DOMAIN-SUFFIX,happyon.jp
   - DOMAIN-SUFFIX,hulu.jp
   - DOMAIN-SUFFIX,prod.hjholdings.tv
   - DOMAIN-SUFFIX,streaks.jp
   - DOMAIN-SUFFIX,yb.uncn.jp
   
-  # > Japonx
+# > Japonx
   - DOMAIN-KEYWORD,japonx
   - DOMAIN-KEYWORD,japronx
   - DOMAIN-SUFFIX,japonx.com
@@ -130,35 +136,35 @@ payload:
   - DOMAIN-SUFFIX,japronx.net
   - DOMAIN-SUFFIX,japronx.vip
 
-  # > JOOX
+# > JOOX
   - DOMAIN-SUFFIX,joox.com
   - DOMAIN-KEYWORD,jooxweb-api
 
-  # > KKBOX
+# > KKBOX
   - DOMAIN-SUFFIX,kkbox.com
   - DOMAIN-SUFFIX,kkbox.com.tw
   - DOMAIN-SUFFIX,kfs.io
 
-  # > KKTV
+# > KKTV
   - DOMAIN-SUFFIX,kktv.me
   - DOMAIN-SUFFIX,kktv.com.tw
   - DOMAIN,kktv-theater.kk.stream
   
-  # > letv
+# > letv
   - DOMAIN-SUFFIX,api.mob.app.letv.com
 
-  # > Line TV
+# > Line TV
   # - USER-AGENT,LINE*
   - DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
   - DOMAIN-SUFFIX,linetv.tw
   - DOMAIN-SUFFIX,profile.line-scdn.net
   
-  # > myTV_SUPER
+# > myTV_SUPER
   # - USER-AGENT,mytv*
   - DOMAIN-SUFFIX,mytvsuper.com
   - DOMAIN-SUFFIX,tvb.com
   
-  # > Netease Music
+# > Netease Music
   - DOMAIN-SUFFIX,163yun.com
   - DOMAIN-SUFFIX,api.iplay.163.com
   - DOMAIN-SUFFIX,hz.netease.com
@@ -184,17 +190,17 @@ payload:
   - IP-CIDR,59.111.181.38/32,no-resolve
   - IP-CIDR,59.111.181.60/32,no-resolve
 
-  # > Pandora
+# > Pandora
   - DOMAIN-SUFFIX,pandora.com
 
-  # > SoundCloud
+# > SoundCloud
   # - USER-AGENT,SoundCloud*
   - DOMAIN-SUFFIX,sndcdn.com
   - DOMAIN-SUFFIX,soundcloud.com
 
-# > Nonton Film
+# > Streaming Domain Indonesian
   - DOMAIN-SUFFIX,dramaid.nl
-  - DOMAIN-SUFFIX,www.dubbindo.site
+  - DOMAIN-SUFFIX,dubbindo.site
   - DOMAIN-SUFFIX,viral.dutamovie21.tech
   - DOMAIN-SUFFIX,idlixian.com
   - DOMAIN-SUFFIX,indodb21.pw
@@ -208,8 +214,9 @@ payload:
   - DOMAIN-SUFFIX,oppadrama.biz
   - DOMAIN-SUFFIX,pencurimovie.xyz
   - DOMAIN-SUFFIX,pf21.biz
+  - DOMAIN-SUFFIX,gomov.lol
 
-# Search Domain
+# > Search Domain
   - DOMAIN-KEYWORD,joox
   - DOMAIN-KEYWORD,soundcloud
   - DOMAIN-KEYWORD,resso
@@ -224,8 +231,10 @@ payload:
   - DOMAIN-SUFFIX,nimg.jp
   - DOMAIN-SUFFIX,simg.jp
   - DOMAIN-SUFFIX,socdm.com
+  
 # > Acast
   - DOMAIN-SUFFIX,acast.com
+  
 # > Amazon Video
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,aiv-delivery.net
@@ -240,24 +249,29 @@ payload:
   - DOMAIN-SUFFIX,atv-ps.amazon.com
   - DOMAIN-SUFFIX,primevideo.com
   - DOMAIN-SUFFIX,pv-cdn.net
+  
 # > Apple TV
   - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN-SUFFIX,tv.g.apple.com
   - DOMAIN-SUFFIX,tv.v.aaplimg.com
+  
 # > Crave
   - DOMAIN-SUFFIX,9c9media.ca
   - DOMAIN-SUFFIX,9c9media.com
   - DOMAIN-SUFFIX,crave.ca
+  
 # > Dailymotion
   - DOMAIN-SUFFIX,dai.ly
   - DOMAIN-SUFFIX,dailymotion.com
   - DOMAIN-SUFFIX,dailymotionadvertising.com
   - DOMAIN-SUFFIX,dmcdn.net
   - DOMAIN-SUFFIX,dmxleo.com
+  
 # > Deezer
   - DOMAIN-SUFFIX,deezer.com
   - DOMAIN-SUFFIX,dzcdn.net
   - DOMAIN-SUFFIX,e28200.a.akamaiedge.net
+  
 # > HBO
   - DOMAIN-SUFFIX,hbo.com
   - DOMAIN-SUFFIX,hbogo.co.th
@@ -270,8 +284,10 @@ payload:
   - DOMAIN-SUFFIX,hbomaxcdn.com
   - DOMAIN-SUFFIX,hbonow.com
   - DOMAIN-SUFFIX,maxgo.com
+  
 # > Hotdog radio
   - DOMAIN-SUFFIX,hotdogradio.com
+  
 # > Hulu
   - DOMAIN-SUFFIX,hulu.com
   - DOMAIN-SUFFIX,hulu.jp
@@ -280,6 +296,7 @@ payload:
   - DOMAIN-SUFFIX,hulumail.com
   - DOMAIN-SUFFIX,huluqa.com
   - DOMAIN-SUFFIX,hulustream.com
+  
 # > IheartRadio
   - DOMAIN-SUFFIX,937theriver.com
   - DOMAIN-SUFFIX,iheart.com
@@ -292,6 +309,7 @@ payload:
   - DOMAIN-SUFFIX,ihrhls.com
   - DOMAIN-SUFFIX,ihrint.com
   - DOMAIN-SUFFIX,ihrstage.com
+  
 # > IQiyi
   - DOMAIN-SUFFIX,iq.com
   - DOMAIN-SUFFIX,iqiyi.com
@@ -301,42 +319,53 @@ payload:
   - DOMAIN-SUFFIX,qiyi.com
   - DOMAIN-SUFFIX,qiyipic.com
   - DOMAIN-SUFFIX,qy.net
+  
 # > LastFM
   - DOMAIN-SUFFIX,last.fm
+  
 # > OCS
   - DOMAIN-SUFFIX,ocs.fr
   - DOMAIN-SUFFIX,ocsdomain.com
+  
 # > Pandora
   - DOMAIN-SUFFIX,p-cdn.com
   - DOMAIN-SUFFIX,p-cdn.us
   - DOMAIN-SUFFIX,pandora.com
   - DOMAIN-SUFFIX,savagebeast.com
+  
 # > Peacock TV
   - DOMAIN-SUFFIX,peacock.com
   - DOMAIN-SUFFIX,peacocktv.com
+  
 # > Plex
   - DOMAIN-SUFFIX,plex.bz
   - DOMAIN-SUFFIX,plex.direct
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,plexapp.com
+  
 # > SomaFM
   - DOMAIN-SUFFIX,somafm.com
+  
 # > Soundcloud
   - DOMAIN-SUFFIX,sndcdn.com
   - DOMAIN-SUFFIX,soundcloud.app.goo.gl
   - DOMAIN-SUFFIX,soundcloud.com
   - DOMAIN-SUFFIX,soundcloudmail.com
+  
 # > Streamable
   - DOMAIN-SUFFIX,streamable.com
+  
 # > Tubi
   - DOMAIN-SUFFIX,adrise.tv
   - DOMAIN-SUFFIX,tubi.io
   - DOMAIN-SUFFIX,tubi.video
   - DOMAIN-SUFFIX,tubitv.com
+  
 # > TuneIn
   - DOMAIN-SUFFIX,radiotime.com
   - DOMAIN-SUFFIX,tunein.com
   - DOMAIN-SUFFIX,tunenet.io
+  
 # > Twitch TV
   - DOMAIN-SUFFIX,ext-twitch.tv
   - DOMAIN-SUFFIX,jtvnw.net
@@ -346,18 +375,23 @@ payload:
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,twitchcdn.net
   - DOMAIN-SUFFIX,twitchsvc.net
+  
 # > Vevo
   - DOMAIN-SUFFIX,vevo.com
   - DOMAIN-SUFFIX,vevodev.com
   - DOMAIN-SUFFIX,vevoprd.com
   - DOMAIN-SUFFIX,vevostg.com
+  
 # > Vimeo
   - DOMAIN-SUFFIX,vimeo.com
   - DOMAIN-SUFFIX,vimeocdn.com
+  
 # > VRV
   - DOMAIN-SUFFIX,vrv.co
+  
 # > Vudu
   - DOMAIN-SUFFIX,vudu.com
+  
 # > Bigo TV
   - DOMAIN-SUFFIX,likeevideo.com
   - DOMAIN-SUFFIX,like.video
