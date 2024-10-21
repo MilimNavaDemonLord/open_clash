@@ -1,0 +1,70 @@
+payload:
+
+# > Anime Domain Indonesian
+   - DOMAIN-SUFFIX,anoboy.foundation
+   - DOMAIN-SUFFIX,neonime.me
+   - DOMAIN-SUFFIX,anichin.mom
+   - DOMAIN-SUFFIX,anikor.my.id
+   - DOMAIN-SUFFIX,v6.animasu.cc
+   - DOMAIN-SUFFIX,154.26.137.28 #animesail
+   - DOMAIN-SUFFIX,animexin.vip
+   - DOMAIN-SUFFIX,anixverse.com
+   - DOMAIN-SUFFIX,auratail.vip
+   - DOMAIN-SUFFIX,kazefuri.asia
+   - DOMAIN-SUFFIX,nekokun.site
+   - DOMAIN-SUFFIX,nimegami.id
+   - DOMAIN-SUFFIX,s1.nontonanimeid.boats
+   - DOMAIN-SUFFIX,oploverz.llc
+   - DOMAIN-SUFFIX,otakudesu.cloud
+   - DOMAIN-SUFFIX,samehadaku.email
+   - DOMAIN-SUFFIX,tensei.id
+   - DOMAIN-SUFFIX,kuramanime.dad
+   - DOMAIN-SUFFIX,kuronime.pro
+   - DOMAIN-SUFFIX,kusonime.com
+   - DOMAIN-SUFFIX,gomunime.is
+   - DOMAIN-SUFFIX,nekopoi.care
+   - DOMAIN-SUFFIX,minioppai.org
+   - DOMAIN-SUFFIX,doujindesu.tv
+
+# > Anime Domain Global
+   - DOMAIN-SUFFIX,myanimelist.net
+   - DOMAIN-SUFFIX,anilist.co
+   - DOMAIN-SUFFIX,nhentai.net
+   - DOMAIN-SUFFIX,hanime.tv
+   - DOMAIN-SUFFIX,9anime.cz
+   - DOMAIN-SUFFIX,9anime.id
+   - DOMAIN-SUFFIX,9anime.to
+   - DOMAIN-SUFFIX,9anime.ws
+   - DOMAIN-SUFFIX,animedao-tv.com
+   - DOMAIN-SUFFIX,crunchyroll.com
+   - DOMAIN-SUFFIX,funimation.com
+   - DOMAIN-SUFFIX,gogo-load.com
+   - DOMAIN-SUFFIX,gogoanime.vc
+   - DOMAIN-SUFFIX,gogoanime.wiki
+   - DOMAIN-SUFFIX,gogocdn.net
+   - DOMAIN-SUFFIX,hidive.com
+   - DOMAIN-SUFFIX,vrv.co
+   - DOMAIN-SUFFIX,animedao-tv.com
+   - DOMAIN-SUFFIX,animekayo.com
+   - DOMAIN-SUFFIX,kayoanime.com
+   - DOMAIN-SUFFIX,9anime-tv.com
+   - DOMAIN-SUFFIX,kissanime.ru
+   - DOMAIN-SUFFIX,animedao.com
+   - DOMAIN-SUFFIX,animelab.com
+   - DOMAIN-SUFFIX,anime-planet.com
+   - DOMAIN-SUFFIX,viz.com
+   - DOMAIN-SUFFIX,animeheaven.ru
+   - DOMAIN-SUFFIX,animefreak.tv
+   - DOMAIN-SUFFIX,contv.com
+   - DOMAIN-SUFFIX,asiancrush.com
+   - DOMAIN-SUFFIX,animetake.tv
+   - DOMAIN-SUFFIX,aniplus-asia.com
+   - DOMAIN-SUFFIX,tubi.tv
+   - DOMAIN-SUFFIX,midnightpulp.com
+   - DOMAIN-SUFFIX,animebee.to
+   - DOMAIN-KEYWORD,gogoplay
+   - DOMAIN-KEYWORD,gogoanime
+   - DOMAIN-KEYWORD,9anime
+   - DOMAIN-KEYWORD,hentaihaven
+   - DOMAIN-KEYWORD,booru
+
