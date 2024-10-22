@@ -1,0 +1,208 @@
+proxies:
+  - name: COLUMBIA-WIRELESS (CA)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: a330420c-27af-4f90-9580-ccef909264c0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=162.210.162.176:25721
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: CLOUDWEBMANAGE-CANADA (CA)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 08ffec39-dcf5-4747-8358-d68fe1acafb9
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=213.255.209.189:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: ORACLE-BMC-31898 (CA)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 692e6a13-9a8e-4826-884a-a09122dbe755
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=192.18.150.121:27620
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: OVH (CA)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: d834cf08-2ab8-46dc-866b-ca8fdafb4687
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=51.79.29.38:2053
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: COOPTEL-AS-01 (CA)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 298d0ef0-9eb4-465b-89d6-32119c6fbd13
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=198.168.101.245:31460
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: AKAMAI-LINODE-AP Akamai Connected Cloud (CA)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: b112f92e-7c3a-4ea1-b2d6-337260091efa
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=172.105.26.112:2443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: AS-AKN (CA)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 5bc19176-c58e-41cf-9293-20bcb91e5fb0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=172.98.207.58:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: REGXA-CLOUD (CA)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 4e4a3c0c-4121-4cc0-82f8-cb0bea516261
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=209.200.246.130:80
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: SERVER-CLOUD-CANADA (CA)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 7ec21c12-8c49-44cf-9308-19c1e595fe0d
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=199.48.102.83:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: IT7NET (CA)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 49a0e966-918f-4239-a6ad-53aaf3e0660d
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=65.49.234.121:58197
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: BEANFIELD (CA)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 468ee0b2-c1be-4618-a825-110094a2d152
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=75.98.202.222:13653
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: ESTRUXTURE-QC-10929 (CA)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 6f81cfec-7d49-4f6f-99dd-79412aef3d86
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=38.180.127.82:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: COGENT-174 (CA)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: d979b648-42eb-4b7f-b5ba-42eff3b72335
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=170.75.161.105:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true

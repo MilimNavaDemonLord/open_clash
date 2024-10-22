@@ -1,0 +1,160 @@
+proxies:
+  - name: Korea Telecom (KR)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: aae22bb7-ac98-41a0-bbe3-d538a65be633
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=118.40.67.50:50003
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: DLIVE (KR)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: d0096c41-ec3c-4cf9-bf9a-8ec9fa4da028
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=114.30.28.187:29569
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: LG POWERCOMM (KR)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: a700cadc-3cdb-4b57-b915-2dca445e3396
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=14.7.250.233:30038
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: Sk Broadband Co LTD (KR)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 79a616b1-3607-420b-9ab8-7c479ba31c60
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=123.212.61.199:50016
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: KCTV JEJU BROADCASTING (KR)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: e2d5cc62-98af-4d3e-b5e1-f399683ae498
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=27.100.236.99:30061
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: Lg Hellovision Corp (KR)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: e77ad4c6-ba2b-480d-9e77-c2d55c58cd97
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=211.189.218.243:32310
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: Ulsan Jung ang Broadcasting Network (KR)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 7e810f37-5be8-4048-b94b-f30872fed870
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=124.216.90.42:12188
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: Korea Cable TV Kwangju Broadcasting (KR)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 3aad0dd0-4d91-4016-a161-d705f71fa107
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=111.91.189.204:25523
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: Oracle Corporation (KR)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 19aaab5c-5155-45ba-ace0-48f8aeb7e280
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=131.186.25.231:28899
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: Seokyung Cable Television CO Ltd (KR)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 1ebb2bd3-8ece-4cef-ab2f-eec736e2f3d5
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=182.31.126.239:30045
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true

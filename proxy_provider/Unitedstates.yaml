@@ -1,0 +1,608 @@
+proxies:
+  - name: Akamai (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 4c8ca2a4-86c3-47b3-a09d-06f84bc4b007
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=139.144.215.31:587
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: IT7NET (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 8f0e0c78-f15f-48df-924c-f822fd3e7ee0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=173.242.126.123:60002
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: KAMATERA (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: cf214376-9001-47d0-97ea-8d6ffdf41dcf
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=194.113.211.115:2053
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: OLINK CLOUD (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 478c8900-9384-49eb-acb7-3ccb10622063
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=172.82.16.38:30387
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: AS56971
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: aec91e64-cd8d-4a29-8fe9-d503c1352e82
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=45.159.208.139:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: TENCENT NET AP CN Tencent Building Kejizhongyi Avenue (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: ea0aed07-8f42-4275-af05-e1756d59cd02
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=43.135.166.95:11030
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: NETLAB SDN (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 1a095989-1796-42fb-bd0e-17af2428d79b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=38.207.171.178:587
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: HOSTKEY AS (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 53bffaba-96c3-47af-a7d3-51d7edd634d7
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=192.177.26.241:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: STARK INDUSTRIES (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 9bc28a72-729a-475b-948a-11cd7818b1df
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=103.35.188.123:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: COGENT 174 (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: cb3d26bd-a65a-4ebc-b462-38dec93c178a
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=154.21.194.200:587
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: HOSTEONS AS AP Hosteons Pte Ltd (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: f4a0e473-ec5d-468c-a1aa-0527b5402553
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=205.234.157.47:54675
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: CNSERVERS (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: cbceeea9-1d74-4420-8edb-90163f6ea3e1
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=38.6.190.192:2083
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: AIYUN AS AP Zhejiang Aiyun Network Technology Co Ltd (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: ff140e59-55a1-4f23-80a6-69d828d56de9
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=38.105.27.164:587
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: HETZNER CLOUD2 AS (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: e94d7508-aaac-4bb3-aa35-7226da2d0ef4
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=5.161.24.129:445
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: ORACLE BMC 31898 (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 0140f838-9187-4b52-8156-03389991869a
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=132.145.152.194:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: MULTA ASN1 (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 153d1b4a-bcfc-4726-9dfc-de095b3530d4
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=148.135.18.79:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: ASN QUADRANET GLOBAL (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 2330d61e-a80f-49b4-ab82-c7bae320a6ba
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=31.220.14.253:25523
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: REDOUBT NET (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 02aab73f-f37b-4ffb-80b7-bb01cedf014b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=38.175.202.72:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+    
+  - name: AS VULTR (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 437b15c1-3ea8-4da5-914c-c703134e3bb9
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=149.28.48.254:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: HOSTKEY USA (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: f53b0c04-93e0-43de-a86b-6fcd79bb399a
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=80.209.240.207:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: FD 298 8796 (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 0c3e529d-aac1-4c38-9a9f-1c4421772140
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=149.88.88.55:24902
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: VPLSNET (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 01a7e5a5-3653-43e1-9324-9e3fdc09133b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=67.198.150.48:16934
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: HOSTHATCH (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 6d8bb400-8a66-4081-9a19-4850980bea41
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=170.205.38.77:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: UNIFIEDLAYER AS 1 (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: dcf3bdea-0088-4e11-8ccf-e7811b066c2d
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=162.240.41.183:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: POLONETWORK AS AP POLONETWORK LIMITED (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 4afe5223-5245-4ad2-ab0d-f90ffe39b577
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=38.150.0.22:587
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: CONSOLE CONNECT ASN (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 6ca72c35-9d2f-4129-95af-beb9b9666a36
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=205.252.117.138:8090
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: CLOUVIDER Clouvider   Global ASN (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: e4407295-a49a-4f1c-a3b4-f245ac632363
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=200.162.155.150:8443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: HETZNER CLOUD3 AS (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 0fac0f7d-e0fa-4a4d-aba9-74570c1abda3
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=5.78.122.30:8081
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: PONYNET (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 2d5139e9-30f1-4798-8c7b-a1c3ba9fa253
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=205.185.114.152:8443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: NL 811 40021 (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 160589da-59ee-4b17-bd87-41d3a38cb8ce
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=62.146.172.119:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: DIGITALOCEAN ASN (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 3f4e4f58-ac49-44fd-b097-abc75e59ff39
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=64.225.25.17:80
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: EVOCATIVE GLOBAL (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 1c097edb-5ea8-4e4e-b88e-cdfed2ff23c1
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=91.186.208.20:7443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: DMIT (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 28893410-e0b1-4576-802b-c3857e679f4a
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=154.17.23.14:45956
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: ZYC (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 4c579227-b7e9-4186-852d-b12112814089
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=23.156.152.157:444
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: AEZA AS (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 660cc917-3633-4399-b0f8-dfca17da2e5d
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=217.196.98.183:8443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: SPARTANHOST (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 1467c456-9e26-4f17-adee-f70151326792
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=45.154.215.160:53000
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+    
+  - name: AIYUN AS AP Aiyun HK Network (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 5e812e04-8daf-4d1c-a184-2762dbbd0ccc
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=23.26.239.237:40399
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: ATT INTERNET4 (US)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 7b3dda54-74ba-4ed7-8358-501181b1514d
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=63.205.203.251:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true

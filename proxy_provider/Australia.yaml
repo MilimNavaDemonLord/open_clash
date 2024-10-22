@@ -1,0 +1,96 @@
+proxies:
+  - name: OVH (AU)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: ffd33260-5f22-4801-b455-6581f9d7806f
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=139.99.236.163:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: ORACLE-BMC-31898 (AU)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: aad4f7cb-d3be-411a-855f-357247cd3f13
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=152.67.101.72:23010
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: TRANSACT-SDN-AS TransACT Capital Communications Pty Limited (AU)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 1f37205e-2aa8-449b-a96e-6e4b4c510456
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=180.200.129.116:37215
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: AS-VULTR (AU)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 3215abd1-5724-4837-8471-55098c832bea
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=45.32.245.32:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: TPG-INTERNET-AP TPG Telecom Limited (AU)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 9cfcef99-6876-4789-a7de-b88ab1dfc340
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=115.64.150.183:37215
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: DIGITALOCEAN-ASN (AU)
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 03c4700b-e28f-4f5c-89f4-ac5acec4470b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=209.38.20.71:4433
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
