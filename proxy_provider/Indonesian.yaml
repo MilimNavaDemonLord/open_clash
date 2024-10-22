@@ -1,0 +1,112 @@
+proxies:
+  - name: Google LLC     
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: ad4cc5e2-5dda-444d-8739-c31f111235f7
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90:443
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: UCLOUD INFORMATION TECHNOLOGY HK LIMITED     
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: edf69a6d-53f0-4744-a672-8c27bded3383
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=165.154.48.233:587
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: Shenzhen Tencent Computer Systems Company Limited     
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 01ec4e46-c474-4aa4-b453-9448848477fd
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=43.133.145.156:53136
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: Alibaba us Technology Co Ltd     
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: b783752d-152e-4ad1-bc44-839c4614b8af
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=8.215.23.109:587
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: Pt Cloud Teknologi Nusantara     
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 3533c0d8-f3e2-4e8c-98ce-0baebd9f472d
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=103.133.223.51:2096
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: Akamai Technologies Inc     
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 1e23a40b-39e7-4da1-8943-523c1fcb04f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=172.232.234.33:587
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
+
+  - name: Rumahweb     
+    server: img.email1.vidio.com
+    port: 443
+    type: vless
+    uuid: 9a266c2a-a346-477a-96b5-d3f3b35475f4
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: aio.ghosting.us.kg
+    network: ws
+    ws-opts:
+      path: /vl=203.194.112.119:2053
+      headers:
+        Host: aio.ghosting.us.kg
+    udp: true
