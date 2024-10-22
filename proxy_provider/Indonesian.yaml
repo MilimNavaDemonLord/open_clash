@@ -1,5 +1,5 @@
 proxies:
-  - name: Google LLC     
+  - name: Google LLC (ID)     
     server: img.email1.vidio.com
     port: 443
     type: vless
@@ -15,7 +15,7 @@ proxies:
         Host: aio.ghosting.us.kg
     udp: true
 
-  - name: UCLOUD INFORMATION TECHNOLOGY HK LIMITED     
+  - name: UCLOUD INFORMATION TECHNOLOGY HK LIMITED (ID)    
     server: img.email1.vidio.com
     port: 443
     type: vless
@@ -31,7 +31,7 @@ proxies:
         Host: aio.ghosting.us.kg
     udp: true
 
-  - name: Shenzhen Tencent Computer Systems Company Limited     
+  - name: Shenzhen Tencent Computer Systems Company Limited (ID) 
     server: img.email1.vidio.com
     port: 443
     type: vless
@@ -47,7 +47,7 @@ proxies:
         Host: aio.ghosting.us.kg
     udp: true
 
-  - name: Alibaba us Technology Co Ltd     
+  - name: Alibaba us Technology Co Ltd (ID)   
     server: img.email1.vidio.com
     port: 443
     type: vless
@@ -63,7 +63,7 @@ proxies:
         Host: aio.ghosting.us.kg
     udp: true
 
-  - name: Pt Cloud Teknologi Nusantara     
+  - name: Pt Cloud Teknologi Nusantara (ID)   
     server: img.email1.vidio.com
     port: 443
     type: vless
@@ -79,7 +79,7 @@ proxies:
         Host: aio.ghosting.us.kg
     udp: true
 
-  - name: Akamai Technologies Inc     
+  - name: Akamai Technologies Inc (ID)  
     server: img.email1.vidio.com
     port: 443
     type: vless
@@ -95,7 +95,7 @@ proxies:
         Host: aio.ghosting.us.kg
     udp: true
 
-  - name: Rumahweb     
+  - name: Rumahweb (ID)
     server: img.email1.vidio.com
     port: 443
     type: vless
