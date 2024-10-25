@@ -26,6 +26,7 @@ payload:
    - DOMAIN-SUFFIX,nekopoi.care
    - DOMAIN-SUFFIX,minioppai.org
    - DOMAIN-SUFFIX,doujindesu.tv
+   - DOMAIN-KEYWORD,animeplay
 
 # > Anime Domain Global
    - DOMAIN-SUFFIX,myanimelist.net
