@@ -27,6 +27,7 @@ payload:
    - DOMAIN-SUFFIX,minioppai.org
    - DOMAIN-SUFFIX,doujindesu.tv
    - DOMAIN-KEYWORD,animeplay
+   - DOMAIN-KEYWORD,wibuku
 
 # > Anime Domain Global
    - DOMAIN-SUFFIX,myanimelist.net
