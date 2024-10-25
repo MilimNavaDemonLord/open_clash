@@ -28,7 +28,7 @@ payload:
    - DOMAIN-SUFFIX,doujindesu.tv
    - DOMAIN-KEYWORD,animeplay #app animeplay
    - DOMAIN-KEYWORD,wibuku #app wibuku
-   - DOMAIN-KEYWORD,animekita
+   - DOMAIN-KEYWORD,animekita #app anime lovers v3
 
 # > Anime Domain Global
    - DOMAIN-SUFFIX,myanimelist.net
