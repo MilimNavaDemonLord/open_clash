@@ -1,6 +1,7 @@
 payload:
 
 # > Anime Domain Indonesian
+   - DOMAIN-SUFFIX,animeindo.skin
    - DOMAIN-SUFFIX,huntersekai.online
    - DOMAIN-SUFFIX,anoboy.icu
    - DOMAIN-SUFFIX,neonime.me
