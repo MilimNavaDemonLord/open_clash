@@ -35,7 +35,6 @@ payload:
   - IP-CIDR6,2a0a:f280::/29
   - PROCESS-NAME,Telegram.exe
   - PROCESS-NAME,nekox.messenger
-  - PROCESS-NAME,nekox.messenger.broken
   - PROCESS-NAME,org.telegram.messenger
   - PROCESS-NAME,telegram-desktop
   - PROCESS-NAME,tw.nekomimi.nekogram
