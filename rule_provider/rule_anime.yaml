@@ -27,9 +27,9 @@ payload:
    - DOMAIN-SUFFIX,nekopoi.care
    - DOMAIN-SUFFIX,minioppai.org
    - DOMAIN-SUFFIX,doujindesu.tv
-   - DOMAIN-KEYWORD,animeplay #app animeplay
-   - DOMAIN-KEYWORD,wibuku #app wibuku
-   - DOMAIN-KEYWORD,animekita #app anime lovers v3
+   - PROCESS-NAME,dev.animeplay.app #app animeplay
+   - PROCESS-NAME,wibuku.app.wibuku #app wibuku
+   - PROCESS-NAME,com.aniverseid.animelovers #app anime lovers v3
 
 # > Anime Domain Global
    - DOMAIN-SUFFIX,myanimelist.net
@@ -72,4 +72,3 @@ payload:
    - DOMAIN-KEYWORD,9anime
    - DOMAIN-KEYWORD,hentaihaven
    - DOMAIN-KEYWORD,booru
-
