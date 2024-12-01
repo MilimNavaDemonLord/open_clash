@@ -26,11 +26,122 @@ payload:
    - DOMAIN-SUFFIX,gomunime.is
    - DOMAIN-SUFFIX,nekopoi.care
    - DOMAIN-SUFFIX,minioppai.org
-   - DOMAIN-SUFFIX,doujindesu.tv
    - PROCESS-NAME,dev.animeplay.app #app animeplay
    - PROCESS-NAME,wibuku.app.wibuku #app wibuku
    - PROCESS-NAME,com.aniverseid.animelovers #app anime lovers v3
-
+   
+# > Manga Domain Indonesian
+    - DOMAIN-SUFFIX,ainzscans.net
+    - DOMAIN-SUFFIX,alceacomic.my.id
+    - DOMAIN-SUFFIX,bacakomik.net
+    - DOMAIN-SUFFIX,birdtoon.net
+    - DOMAIN-SUFFIX,boosei.net
+    - DOMAIN-SUFFIX,comic21.me
+    - DOMAIN-SUFFIX,comicaso.id
+    - DOMAIN-SUFFIX,comicfx.net
+    - DOMAIN-SUFFIX,www.comicsekai.com
+    - DOMAIN-SUFFIX,cosmic345.co
+    - DOMAIN-SUFFIX,crotpedia.net
+    - DOMAIN-SUFFIX,dojing.net
+    - DOMAIN-SUFFIX,doujindesu.tv
+    - DOMAIN-SUFFIX,doujinku.xyz
+    - DOMAIN-SUFFIX,futari.info
+    - DOMAIN-SUFFIX,hensekai.com
+    - DOMAIN-SUFFIX,heroxia.com
+    - DOMAIN-SUFFIX,hwago01.xyz
+    - DOMAIN-SUFFIX,ichiromanga.my.id
+    - DOMAIN-SUFFIX,www.re-yume.my.id
+    - DOMAIN-SUFFIX,indo18h.com
+    - DOMAIN-SUFFIX,izanamiscans.my.id
+    - DOMAIN-SUFFIX,kanzenin.info
+    - DOMAIN-SUFFIX,katakomik.my.id
+    - DOMAIN-SUFFIX,kiryuu.one
+    - DOMAIN-SUFFIX,klikmanga.id
+    - DOMAIN-SUFFIX,klmanhua.blogspot.com
+    - DOMAIN-SUFFIX,kofiscans.me
+    - DOMAIN-SUFFIX,apkomik.cc
+    - DOMAIN-SUFFIX,komikcast.bz
+    - DOMAIN-SUFFIX,komikgan.com
+    - DOMAIN-SUFFIX,www.komikges.my.id
+    - DOMAIN-SUFFIX,komikgo.xyz
+    - DOMAIN-SUFFIX,komikgue.pro
+    - DOMAIN-SUFFIX,www.komikid.com
+    - DOMAIN-SUFFIX,komikindo.icu
+    - DOMAIN-SUFFIX,komiksin.id
+    - DOMAIN-SUFFIX,komikindo.lol
+    - DOMAIN-SUFFIX,komikindo.info
+    - DOMAIN-SUFFIX,komiklovers.com
+    - DOMAIN-SUFFIX,komikmama.org
+    - DOMAIN-SUFFIX,komikpix.com
+    - DOMAIN-SUFFIX,komikplay.com
+    - DOMAIN-SUFFIX,www.komikrealm.my.id
+    - DOMAIN-SUFFIX,komiksan.link
+    - DOMAIN-SUFFIX,komiksay.info
+    - DOMAIN-SUFFIX,komikstation.co
+    - DOMAIN-SUFFIX,komiktap.info
+    - DOMAIN-SUFFIX,komiku.id
+    - DOMAIN-SUFFIX,komiku.com
+    - DOMAIN-SUFFIX,komikuzan.com
+    - DOMAIN-SUFFIX,komikzoid.id
+    - DOMAIN-SUFFIX,kumapoi.info
+    - DOMAIN-SUFFIX,www.lianscans.com
+    - DOMAIN-SUFFIX,lumos01.com
+    - DOMAIN-SUFFIX,www.magerin.com
+    - DOMAIN-SUFFIX,www.maid.my.id
+    - DOMAIN-SUFFIX,mangacanblog.com
+    - DOMAIN-SUFFIX,mangaid.click
+    - DOMAIN-SUFFIX,mangakita.id
+    - DOMAIN-SUFFIX,mangaku.lat
+    - DOMAIN-SUFFIX,mangakyo.vip
+    - DOMAIN-SUFFIX,mangalay.blogspot.com
+    - DOMAIN-SUFFIX,mangasusuku.com
+    - DOMAIN-SUFFIX,ikiru.one
+    - DOMAIN-SUFFIX,www.nowheartruth.com
+    - DOMAIN-SUFFIX,mangayu.id
+    - DOMAIN-SUFFIX,sirenkomik.my.id
+    - DOMAIN-SUFFIX,manhwadesu.my
+    - DOMAIN-SUFFIX,manhwaindo.net
+    - DOMAIN-SUFFIX,www.manhwaland.ink
+    - DOMAIN-SUFFIX,manhwalist.in
+    - DOMAIN-SUFFIX,manhwalist.org
+    - DOMAIN-SUFFIX,tenshi01.id
+    - DOMAIN-SUFFIX,melokomik.xyz
+    - DOMAIN-SUFFIX,mgkomik.id
+    - DOMAIN-SUFFIX,www.mikoroku.web.id
+    - DOMAIN-SUFFIX,miraiscans.com
+    - DOMAIN-SUFFIX,mirrordesu.one
+    - DOMAIN-SUFFIX,monzeekomik.my.id
+    - DOMAIN-SUFFIX,natsu.id
+    - DOMAIN-SUFFIX,nekomik.me
+    - DOMAIN-SUFFIX,neumanga.xyz
+    - DOMAIN-SUFFIX,ngamenkomik05.blogspot.com
+    - DOMAIN-SUFFIX,www.nimemob.my.id
+    - DOMAIN-SUFFIX,ngomik.mom
+    - DOMAIN-SUFFIX,noromax.my.id
+    - DOMAIN-SUFFIX,onepieceberwarna.com
+    - DOMAIN-SUFFIX,yurilab.my.id
+    - DOMAIN-SUFFIX,otsugami.id
+    - DOMAIN-SUFFIX,pojokmanga.info
+    - DOMAIN-SUFFIX,pornhwa18.com
+    - DOMAIN-SUFFIX,sekaikomik.guru
+    - DOMAIN-SUFFIX,sektedoujin.cc
+    - DOMAIN-SUFFIX,sektekomik.xyz
+    - DOMAIN-SUFFIX,shinigami07.com
+    - DOMAIN-SUFFIX,shirakami.xyz
+    - DOMAIN-SUFFIX,shirodoujin.com
+    - DOMAIN-SUFFIX,shiyurasub.blogspot.com
+    - DOMAIN-SUFFIX,siikomik.lat
+    - DOMAIN-SUFFIX,siimanga.cyou
+    - DOMAIN-SUFFIX,sigel.asia
+    - DOMAIN-SUFFIX,www.sobatmanku19.cab
+    - DOMAIN-SUFFIX,soulscans.my.id
+    - DOMAIN-SUFFIX,www.tooncubus.top
+    - DOMAIN-SUFFIX,tukangkomik.co
+    - DOMAIN-SUFFIX,westmanga.fun
+    - DOMAIN-SUFFIX,worldmanhwas.zone
+    - DOMAIN-SUFFIX,yubikiri.my.id
+    - DOMAIN-SUFFIX,www.yuramanga.my.id
+    
 # > Anime Domain Global
    - DOMAIN-SUFFIX,myanimelist.net
    - DOMAIN-SUFFIX,anilist.co
