@@ -141,12 +141,16 @@ payload:
     - DOMAIN-SUFFIX,worldmanhwas.zone
     - DOMAIN-SUFFIX,yubikiri.my.id
     - DOMAIN-SUFFIX,www.yuramanga.my.id
-    
-# > Anime Domain Global
+
+# > Anime List
    - DOMAIN-SUFFIX,myanimelist.net
    - DOMAIN-SUFFIX,anilist.co
+
+# > Anime Domain Global
    - DOMAIN-SUFFIX,nhentai.net
+   - DOMAIN-SUFFIX,animepahe.ru
    - DOMAIN-SUFFIX,hanime.tv
+   - DOMAIN-SUFFIX,hianime.to
    - DOMAIN-SUFFIX,9anime.cz
    - DOMAIN-SUFFIX,9anime.id
    - DOMAIN-SUFFIX,9anime.to
