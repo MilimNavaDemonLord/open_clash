@@ -3,11 +3,11 @@ payload:
 # > Anime Domain Indonesian
    - DOMAIN-SUFFIX,animeindo.skin
    - DOMAIN-SUFFIX,huntersekai.online
-   - DOMAIN-SUFFIX,anoboy.icu
+   - DOMAIN-SUFFIX,anoboy.io
    - DOMAIN-SUFFIX,neonime.me
-   - DOMAIN-SUFFIX,anichin.email
+   - DOMAIN-SUFFIX,anichin.fun
    - DOMAIN-SUFFIX,anikor.my.id
-   - DOMAIN-SUFFIX,v7.animasu.cc
+   - DOMAIN-SUFFIX,v9.animasu.cc
    - DOMAIN-SUFFIX,154.26.137.28 #animesail
    - DOMAIN-SUFFIX,animexin.top
    - DOMAIN-SUFFIX,anixverse.com
@@ -18,7 +18,7 @@ payload:
    - DOMAIN-SUFFIX,s1.nontonanimeid.boats
    - DOMAIN-SUFFIX,oploverz.llc
    - DOMAIN-SUFFIX,otakudesu.cloud
-   - DOMAIN-SUFFIX,samehadaku.email
+   - DOMAIN-SUFFIX,samehadaku.college
    - DOMAIN-SUFFIX,tensei.id
    - DOMAIN-SUFFIX,kuramanime.red
    - DOMAIN-SUFFIX,kuronime.pro
